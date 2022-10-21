@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581791565617",
+    "firebase_url": "https://goodhabits-b919a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "goodhabits-b919a",
+    "storage_bucket": "goodhabits-b919a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581791565617:android:34b6150dc65aaede235210",
+        "android_client_info": {
+          "package_name": "com.example.goodhabits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581791565617-kt2m05ae64d897pc12e71f2sdmj7r4h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtHfh57uTn0QLHiFNfjCUDOIML00cr7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581791565617-kt2m05ae64d897pc12e71f2sdmj7r4h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
